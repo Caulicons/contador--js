@@ -1,0 +1,74 @@
+body {
+     background: rgb(120, 188, 211);
+     font: normal 15pt arial;
+}
+
+header {
+    text-align: center;
+    color: whitesmoke;
+}
+
+section {
+    background: whitesmoke;
+    border-radius: 12px;
+    padding: 90px;
+    width: 50vh;
+    margin: auto;
+    box-shadow: 6px 10px 
+}
+
+button {
+    border: none;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+p input{
+    display: block;
+}
+
+input#calcular {
+    padding: 10px 20px;
+    
+}
+
+footer {
+    text-align:center;
+    color: whitesmoke;
+}
+
+.res {
+    margin-top: .8rem;
+}
+
+@media screen and (max-width: 560px) {
+    section{
+        display: grid;
+        width: 50%;
+        min-width: 256px;
+        padding: 40px 20px;
+    }
+    
+    section p{
+        display: grid;
+        font-weight: bold;
+    }
+
+    section div{
+        display: grid;
+        font-weight: bold;
+        justify-items: center;
+    }
+
+    input {
+        margin-right: 0px;
+    }
+
+    button {
+        width: 80%;
+    }
+
+    
+}   
