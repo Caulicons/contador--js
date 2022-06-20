@@ -1,7 +1,7 @@
 # Contador 
 
-Nessa página você vai colocar um valor de inicio e um valor para o final e a quantidade de passos que que preferir para que o o inicio chegue até o fim. 
+Repassando aqui esse mini-projeto que fiz vendo os cursos do canal do YouTube: Curso em Vídeo, do professor Gustavo Guanabara na playlist de JavaScript patrocinada pelo Google.
 
-Fiz essa página enquanto estava aprendendo o básico do javascript.
+Esse mini-projeto foi ótimo para dá aquela revisada básica em tratamentos de dados, e lógica de programação com JS. Também tive o primeiro contador com Unicode, um emoji sempre ajuda a expressa melhor 😎.
 
-Meu tutor foi o grande Guanabara do canal Curso em Vídeo na sua playlist de vídeos de javascript básico patrocinado pelo google. 
+Caso queiram da uma olhada no site, só clicar [aqui](https://lnkd.in/g2RA842S).
